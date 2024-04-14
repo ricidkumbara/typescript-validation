@@ -1,0 +1,3 @@
+### Class Generic
+
+- Tanda Diamond: <> 
